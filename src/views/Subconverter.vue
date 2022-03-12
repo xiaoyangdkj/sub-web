@@ -407,6 +407,21 @@ export default {
             ]
           },
           {
+            label: "自用规则",
+            options: [
+              {
+                label: "简单粗暴",
+                value:
+                  "https://cdn.jsdelivr.net/gh/xiaoyangdkj/clash_rules@main/basic_clashrule.ini"
+              },
+              {
+                label: "细腻至极",
+                value:
+                  "https://cdn.jsdelivr.net/gh/xiaoyangdkj/clash_rules@main/clashrulesone.ini"
+              }
+            ]
+          },
+          {
             label: "universal",
             options: [
               {
