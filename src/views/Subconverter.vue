@@ -284,6 +284,26 @@ export default {
             ]
           },
           {
+            label: "圈地自萌Xiaoyangdkj",
+            options: [
+              {
+                label: "简单粗暴",
+                value:
+                  "https://cdn.jsdelivr.net/gh/xiaoyangdkj/clash_rules@main/basic_clashrule.ini"
+              },
+              {
+                label: "细腻至极",
+                value:
+                  "https://cdn.jsdelivr.net/gh/xiaoyangdkj/clash_rules@main/clashrulesone.ini"
+              },
+              {
+                label: "花季护航",
+                value:
+                  "https://cdn.jsdelivr.net/gh/xiaoyangdkj/clash_rules@main/greensw.ini"
+              }
+            ]
+          },
+          {
             label: "ACL4SSR",
             options: [
               {
@@ -335,26 +355,6 @@ export default {
                 label: "ACL4SSR全分组去广告",
                 value:
                   "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/config/ACL4SSR_Online_Full_AdblockPlus.ini"
-              }
-            ]
-          },
-          {
-            label: "圈地自萌Xiaoyangdkj",
-            options: [
-              {
-                label: "简单粗暴",
-                value:
-                  "https://cdn.jsdelivr.net/gh/xiaoyangdkj/clash_rules@main/basic_clashrule.ini"
-              },
-              {
-                label: "细腻至极",
-                value:
-                  "https://cdn.jsdelivr.net/gh/xiaoyangdkj/clash_rules@main/clashrulesone.ini"
-              },
-              {
-                label: "花季护航",
-                value:
-                  "https://cdn.jsdelivr.net/gh/xiaoyangdkj/clash_rules@main/greensw.ini"
               }
             ]
           },
